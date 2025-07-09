@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "469574911192",
+    "project_id": "srolloff-ffad3",
+    "storage_bucket": "srolloff-ffad3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469574911192:android:19fe5d2cf8d30be74243ad",
+        "android_client_info": {
+          "package_name": "com.app.scrolloff"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjbOzFPgzLoexWk6clvSgW6qJc1Bq7CzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
