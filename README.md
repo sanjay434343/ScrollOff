@@ -31,7 +31,7 @@ A beautiful, modern Flutter application designed for smooth scrolling experience
   <table>
     <tr>
       <td align="center">
-        <img src="assets/splash" alt="Splash Screen" width="200" />
+        <img src="assets/splash.png" alt="Splash Screen" width="200" />
         <br><strong>🎭 Splash Screen</strong>
         <br><em>Animated welcome experience</em>
       </td>
