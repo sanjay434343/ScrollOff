@@ -22,14 +22,14 @@ A beautiful, modern Flutter application designed for smooth scrolling experience
 
 ---
 
-<!--
+
 ## 📸 Screenshots
 
 <p align="center">
   <img src="screenshots/screenshot1.png" width="250" alt="screenshot 1"/>
   <img src="screenshots/screenshot2.png" width="250" alt="screenshot 2"/>
 </p>
--->
+
 
 ---
 
