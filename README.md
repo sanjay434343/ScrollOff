@@ -22,13 +22,48 @@ A beautiful, modern Flutter application designed for smooth scrolling experience
 
 ---
 
-
 ## 📸 Screenshots
 
-<p align="center">
-  <img src="screenshots/screenshot1.png" width="250" alt="screenshot 1"/>
-  <img src="screenshots/screenshot2.png" width="250" alt="screenshot 2"/>
-</p>
+<div align="center">
+  
+  ### 🚀 App Journey
+  
+  <table>
+    <tr>
+      <td align="center">
+        <img src="assets/splash" alt="Splash Screen" width="200" />
+        <br><strong>🎭 Splash Screen</strong>
+        <br><em>Animated welcome experience</em>
+      </td>
+      <td align="center">
+        <img src="assets/home.png" alt="Home Dashboard" width="200" />
+        <br><strong>🏠 Home Dashboard</strong>
+        <br><em>Your habit command center</em>
+      </td>
+      <td align="center">
+        <img src="assets/add.png" alt="Add Page" width="200" />
+        <br><strong>📊 Progress Tracking</strong>
+        <br><em>Visual analytics & insights</em>
+      </td>
+    </tr>
+  </table>
+  
+  <table>
+    <tr>
+      <td align="center">
+        <img src="assets/addapps.png" alt="Add Habit" width="200" />
+        <br><strong>➕ Add apps</strong>
+        <br><em>Create new habits easily</em>
+      </td>
+      <td align="center">
+        <img src="assets/usage.png" alt="History View" width="200" />
+        <br><strong>📅 History View</strong>
+        <br><em>Track your journey over time</em>
+      </td>
+    </tr>
+  </table>
+  
+</div>
 
 
 ---
