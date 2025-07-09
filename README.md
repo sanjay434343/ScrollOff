@@ -1,5 +1,9 @@
 # 🚀 scrolloff
 
+<p align="center">
+  <img src="assets/image/logo.png" alt="scrolloff logo" width="180"/>
+</p>
+
 [![Flutter](https://img.shields.io/badge/Flutter-3.0-blue?logo=flutter)](https://flutter.dev/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
@@ -85,4 +89,4 @@ This project is [MIT](LICENSE) licensed.
 
 ---
 
-> Made with ❤️ by [Your Name](https://github.com/yourusername)
+> Made with ❤️ by [Sanjay](https://github.com/sanjay434343/ScrollOff)
